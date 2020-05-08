@@ -35,7 +35,7 @@ public class Dollar2Won extends Converter {
 	}
 
 	public static void main(String[] args) {
-		Dollar2Won toDollar = new Dollar2Won(1200); //1100원에 1달러
+		Dollar2Won toDollar = new Dollar2Won(1100); //1100원에 1달러
 		toDollar.run();
 	}
 
